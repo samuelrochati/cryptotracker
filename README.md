@@ -3,3 +3,5 @@
 > Status: Developing ⚠️
 
 ## Cryptocurrency Prices by Market Cap - Top 100
+
++ CoinGecko API (https://www.coingecko.com/pt)
